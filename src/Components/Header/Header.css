@@ -1,0 +1,35 @@
+/* #header-area .navbar{
+    padding: 0;
+} */
+#header-area{
+    background-color: #f5f5f5;
+}
+#header-area .navbar-brand{
+    padding: 0;
+}
+#header-area .navbar-brand img{
+    width: 70px;
+    height: 70px;
+}
+#header-area .navbar-nav .nav-link{
+    margin-right: 15px;
+}
+#header-area .navbar-btn{
+    font-family: "Roboto Slab", serif;
+    font-weight: 500;
+    background-color: #2b6777;
+    padding: 10px 20px;
+    border-color: transparent;
+}
+#header-area .navbar-btn:hover{
+    color: #2b6777;
+    background-color: transparent;
+    border-color: #2b6777;
+}
+#header-area .dropdown-item:hover{
+    color: #fff;
+    background-color: #2b6777;
+}
+#header-area .dropdown-item:active{
+    background-color: #2b6777;
+}
