@@ -1,9 +1,14 @@
 import React from 'react';
+import "./OrderPage.css";
 
 const OrderPage = () => {
     return (
-        <div>
-            
+        <div id='order-page-area'>
+            <div className="container">
+                <div className="row">
+                    
+                </div>
+            </div>
         </div>
     );
 };
