@@ -1,0 +1,9 @@
+#user-info-area{
+    padding: 70px 0;
+}
+.user-page-heading h2{
+    font-size: 32px !important;
+    font-weight: 700 !important;
+    text-align: center;
+    margin-bottom: 70px;
+}

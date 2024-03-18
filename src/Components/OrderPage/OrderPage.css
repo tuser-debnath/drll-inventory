@@ -1,0 +1,25 @@
+#order-page-area{
+    padding: 70px 0;
+    background-color: #efefef;
+}
+.order-page-heading h2{
+    font-size: 32px !important;
+    font-weight: 700 !important;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 70px;
+}
+.form-control{
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    border-color: #000;
+    border-radius: 0;
+}
+.form-control:focus {
+    color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
+    border-color: none;
+    outline: 0;
+    box-shadow: none;
+}
