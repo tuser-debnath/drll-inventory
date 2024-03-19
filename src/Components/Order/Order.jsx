@@ -1,13 +1,13 @@
 import React from 'react';
-import "./OrderPage.css";
+import "./Order.css";
 import { Button, Form } from 'react-bootstrap';
 
 const OrderPage = () => {
     return (
-        <div id='order-page-area'>
+        <div id='order-area'>
             <div className="container">
                 <div className="row">
-                    <div className="order-page-heading">
+                    <div className="order-heading">
                         <h2>Place an order</h2>
                     </div>
                 </div>
