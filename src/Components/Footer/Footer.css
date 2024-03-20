@@ -1,8 +1,9 @@
 #footer-area{
     padding: 20px 0;
-    background-color: #f5f5f5;
+    background-color: #000;
 }
 p{
+    color: #fff;
     text-align: center;
     margin-bottom: 0;
 }

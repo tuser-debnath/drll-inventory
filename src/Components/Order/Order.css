@@ -1,6 +1,5 @@
 #order-area{
     padding: 70px 0;
-    background-color: #efefef;
 }
 .order-heading h2{
     font-size: 32px !important;
@@ -22,4 +21,12 @@
     border-color: none;
     outline: 0;
     box-shadow: none;
+}
+
+#order-area button {
+    font-family: "Roboto Slab", serif;
+    font-weight: 500;
+    background-color: #2b6777;
+    padding: 10px 20px;
+    border-color: transparent;
 }

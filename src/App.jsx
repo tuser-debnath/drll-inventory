@@ -20,12 +20,12 @@ function App() {
     <UserInfo/>
     <OrderDetails/>
     <OrderPage/> */}
-    <Routes>
-      <Route path="/" element={<Home/>}></Route>
-      <Route path="/home" element={<Home/>}></Route>
-      <Route path="/login" element={<LoginPage/>}></Route>
-      <Route path="/order" element={<OrderPage/>}></Route>
-    </Routes>
+      <Routes>
+        <Route path="/" element={<Home/>}></Route>
+        <Route path="/home" element={<Home/>}></Route>
+        <Route path="/login" element={<LoginPage/>}></Route>
+        <Route path="/order" element={<OrderPage/>}></Route>
+      </Routes>
     <Footer/>  
     </>
   )

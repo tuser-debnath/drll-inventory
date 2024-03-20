@@ -7,3 +7,10 @@
     text-align: center;
     margin-bottom: 70px;
 }
+#user-info-area button {
+    font-family: "Roboto Slab", serif;
+    font-weight: 500;
+    background-color: #2b6777;
+    padding: 10px 20px;
+    border-color: transparent;
+}

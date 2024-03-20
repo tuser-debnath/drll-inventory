@@ -12,3 +12,14 @@
     padding: 20px;
     border: 1px solid #000;
 }
+
+#order-details-area button {
+    font-family: "Roboto Slab", serif;
+    font-weight: 500;
+    background-color: #2b6777;
+    padding: 10px 20px;
+    border-color: transparent;
+}
+#order-details-area select{
+    padding: 10px 20px;
+}
