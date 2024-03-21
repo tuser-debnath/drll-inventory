@@ -28,7 +28,7 @@ const OrderDetails = () => {
                                         <option value="2">Production Ready</option>
                                         <option value="3">Delivered</option>
                                     </Form.Select>
-                                                                </div>
+                                </div>
                                 <div className="col-md-6">
                                     <h5 className='mb-4'>Quantity: </h5>
                                     <h5 className='mb-4'>Total Quantity: </h5>
